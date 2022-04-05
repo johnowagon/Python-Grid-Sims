@@ -6,3 +6,4 @@ Made by John Aldrete.
 ### How to use
 Clone the git repo, and make sure you have tkinter installed. 
 
+![BFS](./visualizations/BFS.gif)
