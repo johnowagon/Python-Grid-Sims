@@ -1,6 +1,5 @@
 # Python-Grid-Sims
 This repo is a collection of programs that run on a grid including Conway's game of life, Snake, and a Pathfinding visualization tool. 
-Made by John Aldrete.
 #### Breadth First Search
 ![BFS](./visualizations/bfs.gif)
 #### Conway's Game of Life
